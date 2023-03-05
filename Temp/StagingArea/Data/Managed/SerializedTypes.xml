@@ -1,0 +1,65 @@
+<linker>
+	<assembly fullname="Unity.TextMeshPro">
+		<type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.KerningTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Sprite" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.TextCoreFontEngineModule">
+		<type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="VehiclePhysics">
+		<type fullname="VehiclePhysics.AntiSpin/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.Brakes/AbsSettings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.Brakes/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.Differential/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.Driveline/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.Engine/ClutchSettings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.Engine/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.Gearbox/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.Inertia/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.SpeedControl/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.StabilityControl/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.Steering/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.SteeringAids/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.Telemetry" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.TireFriction" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.TireFriction/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.TorqueSplitter/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.TractionControl/Settings" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.VPAudio/Drags" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.VPAudio/Engine" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.VPAudio/EngineExtras" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.VPAudio/Impacts" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.VPAudio/Wheels" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.VPAudio/Wind" preserve="nothing" serialized="true"/>
+		<type fullname="VehiclePhysics.VPAxle" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
